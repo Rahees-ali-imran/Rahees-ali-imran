@@ -42,7 +42,7 @@
 
 ### 🚀 Current Goals
 
-- [ ] Complete my first Python mini-project
+- [x] Complete my first Python mini-project
 - [ ] Learn basics of Machine Learning
 - [ ] Upload class assignments as small repositories
 - [ ] Contribute to my first open-source project
